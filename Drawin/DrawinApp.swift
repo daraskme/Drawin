@@ -1,9 +1,3 @@
-//
-//  DrawinApp.swift
-//  Drawin
-//
-//  Created by Hiroshi Inoue on R 5/06/28.
-//
 
 import SwiftUI
 
